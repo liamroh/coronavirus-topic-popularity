@@ -88,6 +88,8 @@ Before getting started with this project, ensure you have the following prerequi
    2. Execute the cells in a sequential order to analyze and process coronavirus-related tweets
    3. Explore the provided visualizations and insights
 
+   Note: The tweet dataset is not provided as part of this workflow, you will need to import your own tweets
+
 ## LDA Model Screenshot
 
 **LDA Model Screenshot**:

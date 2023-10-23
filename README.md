@@ -1,16 +1,13 @@
 # Coronavirus Topic Popularity
 
-This is a Jupyter Notebook workflow that focuses on the analysis and processing of tweets during the COVID-19 outbreak. This project includes data collection, preprocessing, keyword analysis, topic modeling, statistical analysis, and various transformations. The ultimate goal is to gain insights into public sentiment, engagement, and the most discussed topics related to COVID-19 on Twitter.
+This is a Jupyter Notebook workflow that focuses on the analysis and processing of tweets during the COVID-19 outbreak. This project includes text preprocessing, keyword analysis, topic modeling, statistical analysis, and various transformations on a pre-collected dataset. The ultimate goal is to gain insights into public sentiment, engagement, and the most discussed topics related to COVID-19 on Twitter.
 
 ## Table of Contents
 
-- [Project Title and Description](#project-title-and-description)
 - [Methodology](#methodology)
 - [Packages Included](#packages-included)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 

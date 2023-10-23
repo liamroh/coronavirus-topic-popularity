@@ -90,16 +90,15 @@ Before getting started with this project, ensure you have the following prerequi
 
  ## Start the Jupyter Notebook
 
-To run the Jupyter Notebook for this project, open your terminal and execute the following command:
-
-  ```bash
-  jupyter notebook
-
-
-## Usage
-
-To use this project, follow these steps:
-
-1. Open the Jupyter Notebook "Coronavirus_Tweet_Analysis.ipynb" using Jupyter Notebook.
-2. Execute the cells in a sequential order to analyze and process coronavirus-related tweets.
-3. Explore the provided visualizations and insights.
+   To run the Jupyter Notebook for this project, open your terminal and execute the following command:
+   
+     ```bash
+     jupyter notebook
+   
+ ## Usage
+   
+   To use this project, follow these steps:
+   
+   1. Open the Jupyter Notebook "Coronavirus_Tweet_Analysis.ipynb" using Jupyter Notebook.
+   2. Execute the cells in a sequential order to analyze and process coronavirus-related tweets.
+   3. Explore the provided visualizations and insights.

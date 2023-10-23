@@ -79,8 +79,7 @@ Before getting started with this project, ensure you have the following prerequi
 
    To run the Jupyter Notebook for this project, open your terminal and execute the following command:
    
-     ```bash
-     jupyter notebook
+    jupyter notebook
    
  ## Usage
    

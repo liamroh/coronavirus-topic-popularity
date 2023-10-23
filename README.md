@@ -9,6 +9,7 @@ This is a Jupyter Notebook workflow that focuses on the analysis and processing 
 - [Getting Started](#getting-started)
 - [Cloning](#cloning)
 - [Usage](#usage)
+- [LDA Model Screenshot](#lda-model-screenshot)
 
 ---
 
@@ -86,3 +87,9 @@ Before getting started with this project, ensure you have the following prerequi
    1. Open the Jupyter Notebook "Coronavirus_Topic_Popularity.ipynb" using Jupyter Notebook
    2. Execute the cells in a sequential order to analyze and process coronavirus-related tweets
    3. Explore the provided visualizations and insights
+
+## LDA Model Screenshot
+
+**LDA Model Screenshot**:
+
+![pyLDAvis Output](./LDAmodel.png)

@@ -1,6 +1,6 @@
-# Coronavirus Tweet Analysis
+# Coronavirus Topic Popularity
 
-**Analyze and Process Coronavirus-Related Tweets**
+This is a Jupyter Notebook workflow that focuses on the analysis and processing of tweets during the COVID-19 outbreak. This project includes data collection, preprocessing, keyword analysis, topic modeling, statistical analysis, and various transformations. The ultimate goal is to gain insights into public sentiment, engagement, and the most discussed topics related to COVID-19 on Twitter.
 
 ## Table of Contents
 
@@ -14,40 +14,30 @@
 
 ---
 
-## Project Title and Description
-
-**Project Title**: Coronavirus Tweet Analysis
-
-**Description**:
-
-Coronavirus Tweet Analysis is a data science project that focuses on the analysis and processing of tweets related to the coronavirus outbreak. This project includes data collection, preprocessing, keyword analysis, topic modeling, statistical analysis, and various transformations. The ultimate goal is to gain insights into public sentiment, engagement, and the most discussed topics related to the coronavirus on Twitter.
-
----
-
 ## Methodology
 
 **Methodology**:
 
 1. **Data Collection**:
-   - Gathered a dataset of tweets related to the coronavirus from a specific date range.
-   - Filtered the dataset to include only English tweets.
+   - Gathered a dataset of English tweets related to the coronavirus from a specific date range
 
 2. **Data Preprocessing**:
-   - Tokenization, Stop Word Removal, Lemmatization, and Stemming.
+   - Tokenization, stop word removal, lemmatization, and stemming
 
 3. **Keyword Analysis**:
-   - Created a bag of words from the preprocessed data.
-   - Filtered out tokens, keeping the 20 most frequent tokens.
+   - Created a bag of words from the preprocessed data
+   - Filtered out tokens, keeping the 20 most frequent tokens
 
 4. **Topic Modeling**:
-   - Utilized Latent Dirichlet Allocation (LDA) to discover topics within the data.
-   - Identified dominant topics for each tweet.
+   - Utilized Latent Dirichlet Allocation (LDA) to discover topics within the data
+   - Identified dominant topics for each tweet
 
 5. **Statistical Analysis + Modeling**:
-   - Conducted regression analysis to examine relationships between dominant topics and other variables, such as favorites and retweets.
+   - Conducted regression analysis to examine relationships between dominant topics and other variables, such as favorites and retweets
+   - Applied various mathematical transformations to further process the data
 
 6. **Alternate Regressions and Transforms**:
-   - Explored power transformation of data.
+   - Explored power transformation of data
 
 ---
 
@@ -85,8 +75,8 @@ Before getting started with this project, ensure you have the following prerequi
 1. Clone the GitHub repository and navigate to the project directory:
 
    ```bash
-   git clone https://github.com/your-username/CoronavirusTweetAnalysis.git
-   cd CoronavirusTweetAnalysis
+   git clone https://github.com/YOUR-USERNAME/coronavirus-topic-popularity.git
+   cd coronavirus-topic-popularity
 
  ## Start the Jupyter Notebook
 
@@ -99,6 +89,6 @@ Before getting started with this project, ensure you have the following prerequi
    
    To use this project, follow these steps:
    
-   1. Open the Jupyter Notebook "Coronavirus_Tweet_Analysis.ipynb" using Jupyter Notebook.
-   2. Execute the cells in a sequential order to analyze and process coronavirus-related tweets.
-   3. Explore the provided visualizations and insights.
+   1. Open the Jupyter Notebook "Coronavirus_Topic_Popularity.ipynb" using Jupyter Notebook
+   2. Execute the cells in a sequential order to analyze and process coronavirus-related tweets
+   3. Explore the provided visualizations and insights

@@ -52,8 +52,6 @@ This project leverages several Python packages for data analysis and visualizati
 - [pyLDAvis](https://github.com/bmabey/pyLDAvis)
 - [openpyxl](https://openpyxl.readthedocs.io/en/stable/)
 
-Please ensure you have these packages installed to run the Jupyter Notebook.
-
 ---
 
 ## Getting Started

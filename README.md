@@ -7,6 +7,7 @@ This is a Jupyter Notebook workflow that focuses on the analysis and processing 
 - [Methodology](#methodology)
 - [Packages Included](#packages-included)
 - [Getting Started](#getting-started)
+- [Cloning](#cloning)
 - [Usage](#usage)
 
 ---
@@ -15,25 +16,22 @@ This is a Jupyter Notebook workflow that focuses on the analysis and processing 
 
 **Methodology**:
 
-1. **Data Collection**:
-   - Gathered a dataset of English tweets related to the coronavirus from a specific date range
-
-2. **Data Preprocessing**:
+1. **Data Preprocessing**:
    - Tokenization, stop word removal, lemmatization, and stemming
 
-3. **Keyword Analysis**:
+2. **Keyword Analysis**:
    - Created a bag of words from the preprocessed data
    - Filtered out tokens, keeping the 20 most frequent tokens
 
-4. **Topic Modeling**:
+3. **Topic Modeling**:
    - Utilized Latent Dirichlet Allocation (LDA) to discover topics within the data
    - Identified dominant topics for each tweet
 
-5. **Statistical Analysis + Modeling**:
+4. **Statistical Analysis + Modeling**:
    - Conducted regression analysis to examine relationships between dominant topics and other variables, such as favorites and retweets
    - Applied various mathematical transformations to further process the data
 
-6. **Alternate Regressions and Transforms**:
+5. **Alternate Regressions and Transforms**:
    - Explored power transformation of data
 
 ---
@@ -67,7 +65,9 @@ Before getting started with this project, ensure you have the following prerequi
 - [Python](https://www.python.org/) 3.8 or higher
 - Jupyter Notebook
 
-**Installation**:
+## Cloning
+
+**Cloning**:
 
 1. Clone the GitHub repository and navigate to the project directory:
 
